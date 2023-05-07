@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+.Mainheader {
+    background-color: #333;
+    color: #333;
+    height: 6rem;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    padding-bottom: 20px;
+    font-size: medium;
+    vertical-align: baseline;
+}
+button{
+   border-radius: 5px;
+   padding: 10px;
+   background-color:rgb(244, 241, 224,1);
+   color: #333;
+   border-color: rgb(244, 241, 224,1);
+   
+}
+
+
+
+.content {
+    height: 2000px;
+    padding-top: 50px;
+    
+}
+
